@@ -1,6 +1,9 @@
 # Test
 This is a [test](./Test.md)
-Can I link to [html](./testpage.html)?
+
+Link to pure [html](./testpage.html)
+
+Link to [Babylon template](./babylonjs-template.html)
 
 ## Welcome to GitHub Pages
 
