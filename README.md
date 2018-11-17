@@ -1,5 +1,6 @@
 # Test
 This is a [test](./Test.md)
+Can I link to [html](./testpage.html)?
 
 ## Welcome to GitHub Pages
 
