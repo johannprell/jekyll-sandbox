@@ -5,6 +5,8 @@ Link to pure [html](./testpage.html)
 
 Link to [Babylon template](./babylonjs-template.html)
 
+Link to [A-Frame template](./aframe-template.html)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/johannprell/jekyll-sandbox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
