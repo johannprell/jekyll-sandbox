@@ -1,5 +1,5 @@
 # Test
-This is a [test](./Test01.md)
+This is a [test](./Test.md)
 
 ## Welcome to GitHub Pages
 
