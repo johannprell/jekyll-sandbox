@@ -7,7 +7,7 @@ Link to [Babylon template](./babylonjs-template.html)
 
 Link to [A-Frame template](./aframe-template.html)
 
-Here is a [page with embedded Soundcloud player](./souncloud-embed.html)
+Here is a [page with embedded Soundcloud player](./soundcloud-embed.html)
 
 ## Welcome to GitHub Pages
 
